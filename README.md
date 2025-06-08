@@ -212,8 +212,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Para dúvidas ou suporte, entre em contato através de:
 
-- Email: suporte@gestaocompras.com
-- Issues do GitHub: [https://github.com/seu-usuario/sistema-gestao-compras/issues](https://github.com/seu-usuario/sistema-gestao-compras/issues)
+- Email: juniornoel351@gmail.com
+- Issues do GitHub: [https://github.com/seu-usuario/sistema-gestao-compras/issues](https://github.com/sNoelMartins/sistema-gestao-compras/issues)
 
 ## 🚀 Próximos Passos
 
